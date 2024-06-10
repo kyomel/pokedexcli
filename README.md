@@ -1,0 +1,1 @@
+## This is Project boot.dev about pokedex using Golang.
